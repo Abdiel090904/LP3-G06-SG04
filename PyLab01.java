@@ -1,4 +1,4 @@
-//PRIMER CAMBIO
+//SEGUNDO CAMBIO
 import java.util.Scanner;
 
 public class PyLab01 {
